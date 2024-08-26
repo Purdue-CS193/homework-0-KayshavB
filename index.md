@@ -1,4 +1,18 @@
-## Welcome to GitHub Pages
+# Kayshav Bhardwaj's First CS193 Homework
+- the number of people I know in the class
+- the usefulness of the content of the class
+- i finally learn github :D
+  
+
+
+
+
+
+
+
+
+
+## Keeping the Guide for Future Reference
 
 You could have used the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
